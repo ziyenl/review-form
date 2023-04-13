@@ -1,6 +1,7 @@
 # This is a react app for collecting feedback review.
 
-This is a react app for collecting feedback review.
+This is a react app for collecting feedback review. The app can be found here:
+https://main--amazing-sopapillas-3920b2.netlify.app/
 
 ## Available Scripts
 
@@ -24,7 +25,3 @@ The build is minified and the filenames include the hashes.
 Use to serve the static files from build folder.
 
  
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
